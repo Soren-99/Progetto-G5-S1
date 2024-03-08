@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c4733a7-cae5-40f7-b69e-7ecd0e912c14" name="Changes" comment="immagine">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elementoMultimediale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/elementoMultimediale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/immagine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/immagine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registrazioneAudio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/registrazioneAudio.java" afterDir="false" />
-    </list>
+    <list default="true" id="3c4733a7-cae5-40f7-b69e-7ecd0e912c14" name="Changes" comment="Progetto concluso" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709902906310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Progetto concluso">
+      <option name="closed" value="true" />
+      <created>1709906727089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709906727089</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -103,6 +104,7 @@
     <MESSAGE value="registrazione Audio" />
     <MESSAGE value="video" />
     <MESSAGE value="immagine" />
-    <option name="LAST_COMMIT_MESSAGE" value="immagine" />
+    <MESSAGE value="Progetto concluso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progetto concluso" />
   </component>
 </project>
