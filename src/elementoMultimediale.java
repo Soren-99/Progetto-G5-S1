@@ -10,6 +10,7 @@ abstract class elementoMultimediale {
         return durata;
     }
 
+    public abstract void show();
 
 
 }

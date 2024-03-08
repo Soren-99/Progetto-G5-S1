@@ -11,7 +11,7 @@ public class registrazioneAudio extends elementoMultimediale implements playerMu
             for (int j = 0; j < volume; j++){
                 System.out.println("!");
             }
-            System.out.println(" " + titolo);
+            //System.out.println(" " + titolo);
         }
     }
 
@@ -26,4 +26,8 @@ public class registrazioneAudio extends elementoMultimediale implements playerMu
         volume++;
     }
 
+    @Override
+    public void show() {
+
+    }
 }

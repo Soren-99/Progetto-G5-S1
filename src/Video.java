@@ -16,7 +16,7 @@ public class Video extends elementoMultimediale implements playerMultimediale{
             for (int k = 0; k < luminosita; k++){
                 System.out.println("*");
             }
-            System.out.println(" " + titolo);
+            //System.out.println(" " + titolo);
         }
 
     }
@@ -28,5 +28,10 @@ public class Video extends elementoMultimediale implements playerMultimediale{
         if (luminosita > 0){
             luminosita--;
         }
+    }
+
+    @Override
+    public void show() {
+
     }
 }

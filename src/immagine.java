@@ -19,6 +19,6 @@ public class immagine extends elementoMultimediale {
         for (int i = 0; i < luminosita; i++){
             System.out.println("*");
         }
-        System.out.println(" " + titolo);
+        //System.out.println(" " + titolo);
     }
 }
