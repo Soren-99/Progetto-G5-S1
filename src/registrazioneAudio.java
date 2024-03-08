@@ -16,7 +16,10 @@ public class registrazioneAudio extends elementoMultimediale implements playerMu
     }
 
     public void abbassaVolume(){
-        volume--;
+        if (volume > 0){
+            volume--;
+        }
+
     }
 
     public void alzaVolume(){
